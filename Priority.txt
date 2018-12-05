@@ -1,0 +1,21 @@
+cs229
+
+
+1线性模型...done
+2,7a,7b概率模型
+3,10间隔与主成分学习
+
+cs231
+cs231n_2018_lecture03.pdf损失函数
+6,7深度神经网络训练
+5,9卷积神经网络
+8深度学习软硬件
+
+unknown
+神经网络误差反向传播算法
+
+Getting Started
+311~395前馈网络与梯度下降
+
+深度学习框架
+Caffe, Tensorflow, Pytorch
